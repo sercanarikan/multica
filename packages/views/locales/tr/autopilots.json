@@ -285,6 +285,8 @@
     "event_filter_actions_placeholder": "completed, failed",
     "event_filter_hint": "Yalnızca bu olaylarla eşleşen webhook'ları işle. Tümünü kabul etmek için boş bırakın.",
     "schedule_disabled_reason": "Bu autopilot'un birden fazla zamanlaması var — detay sayfasından düzenleyin.",
+    "error_title_required": "Bu autopilot için bir ad girin.",
+    "error_assignee_required": "Bu autopilot'u çalıştıracak ajanı veya ekibi seçin.",
     "output_modes": {
       "create_issue": {
         "label": "Issue oluştur",
