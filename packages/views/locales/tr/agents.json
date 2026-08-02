@@ -192,9 +192,7 @@
     "avatar_label": "Avatar",
     "avatar_hint": "Atamalarda, etkinlikte ve sohbette gösterilir.",
     "name_label": "Ad",
-    "description_label": "Açıklama",
-    "labels_label": "Etiketler",
-    "labels_hint": "Bu ajanı sınıflandırmak için kullanılan çalışma alanı etiketleri."
+    "description_label": "Açıklama"
   },
   "skill_attach": {
     "trigger_aria": "Çalışma alanı skill'i ekle",
