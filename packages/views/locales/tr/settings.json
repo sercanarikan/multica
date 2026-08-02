@@ -525,10 +525,7 @@
   "chat": {
     "floating_title": "Yüzen pencere",
     "floating_label": "Yüzen chat penceresi",
-    "floating_hint": "Her sayfanın köşesinde yüzen chat düğmesini gösterin. Varsayılan olarak kapalıdır; her yerden chat'i çağırmak için açın. Kapalıyken Chat yalnızca bu sekmede bulunur.",
-    "quick_actions_title": "Önerilen takipler",
-    "quick_actions_label": "Önerilen takipler oluştur",
-    "quick_actions_hint": "Her ajan yanıtından sonra en fazla üç takip önerisi oluşturun. Kapalıyken bu cihazdan gönderilen mesajlar artık oluşturmayı tetiklemez; mevcut öneriler görünür kalır."
+    "floating_hint": "Her sayfanın köşesinde yüzen chat düğmesini gösterin. Varsayılan olarak kapalıdır; her yerden chat'i çağırmak için açın. Kapalıyken Chat yalnızca bu sekmede bulunur."
   },
   "issue": {
     "description": "Her oluşturma iletişim kutusunun araç çubuğunda hangi alanları tutacağını seçin. Gizli alanlara ⋯ menüsünden erişilebilir; değer taşıdıklarında yeniden görünürler.",
@@ -617,7 +614,6 @@
     "description": "Bu çalışma alanındaki issue, ajan ve skill'leri düzenlemek için kullanılan ayrı etiket kataloglarını yönetin.",
     "scopes": {
       "issue": "Issue'lar",
-      "agent": "Ajanlar",
       "skill": "Skill'ler"
     },
     "search_placeholder": "Ada veya açıklamaya göre filtrele...",
